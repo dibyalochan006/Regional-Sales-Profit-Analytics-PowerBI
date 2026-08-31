@@ -1,6 +1,7 @@
 # Regional Sales & Profit Analytics — Power BI
 
 ## 📊 Dashboard Preview
+![Dasboard Preview][Dashboard Screenshot.png]
 
 ## 📊 Project Overview
 
